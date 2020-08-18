@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#danrus32
 from telebot import types
 import config
 import datetime
