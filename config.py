@@ -1,10 +1,11 @@
+#rusdan32
 import random
 
 import requests
 from telebot import types
 
 import telebot
-token = ("1042689285:AAE3OHOA2EGfnFIfuZJJ-dCXCK6FLs-pkGA")
+token = ("token")
 def random_num():
     random_numer = random.randint(1,10)
 
